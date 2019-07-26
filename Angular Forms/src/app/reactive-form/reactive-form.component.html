@@ -1,0 +1,16 @@
+<form [formGroup]="employeeForm" (submit)="onSubmit()">
+    <label>First Name :
+        <input formControlName="firstName"></label><br>
+    <label>Last Name :
+        <input formControlName="lastName"></label>
+    <h4>Adress</h4>
+    <div formGroupName="address">
+        <label>Street :
+            <input formControlName="street"></label><br>
+        <label>City :
+            <input formControlName="city"></label><br>
+        <label>State :
+            <input formControlName="state"></label><br>
+    </div>
+    <button>Submit</button>
+</form>

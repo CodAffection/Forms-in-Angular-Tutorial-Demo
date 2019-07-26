@@ -1,0 +1,16 @@
+<form #bookForm="ngForm" (submit)="onSubmit(bookForm)">
+    <label>
+        Book Title :
+        <input name='bookTitle' [(ngModel)]="bookTitle" #ctrlTitle="ngModel" required>
+    </label>
+    <label *ngIf="ctrlTitle.invalid && (ctrlTitle.touched || ctrlTitle.dirty)" style="color: red">This field is mandatory</label><br>
+    <label>
+        Book Author :
+        <input name='bookAuthor' [(ngModel)]="bookAuthor">
+    </label><br>
+    <label>
+        No. of Pages :
+        <input name='bookNoOfPages' [(ngModel)]="bookNoOfPages">
+    </label><br>
+    <button type="submit" [disabled]="!bookForm.valid">Submit</button>
+</form>
