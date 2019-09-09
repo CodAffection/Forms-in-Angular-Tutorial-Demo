@@ -1,4 +1,5 @@
-# Angular Inline Table Editing with Asp.Net Core Web API
+# Forms in Angular 8
+Different ways to create forms in angular applications
 
 ###### Before Running this Project
  1. Install npm packages using 'npm install' command from the angular folder
@@ -11,7 +12,7 @@
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=zbMzPluIndc
 " target="_blank"><img src="http://img.youtube.com/vi/zbMzPluIndc/0.jpg" 
-alt="Video Tutorial for Angular Inline Table Editing with Asp.Net Core Web API" width="500" height="400" border="10" /></a>
+alt="Video Tutorial for Different ways to create forms in angular applications" width="500" height="400" border="10" /></a>
 
 
 # All Video Tutorial Series
