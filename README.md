@@ -1,18 +1,17 @@
-# Forms in Angular Tutorial
-Different ways to create forms in angular application
+# Angular Inline Table Editing with Asp.Net Core Web API
 
 ###### Before Running this Project
- 1. Install npm packages using 'npm install' command from the root folder
+ 1. Install npm packages using 'npm install' command from the angular folder
 
  # Step By Step Explanation
 
- Video Tutorial : https://youtu.be/xxxx
+ Video Tutorial : https://youtu.be/zbMzPluIndc
  
 
  
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=xxxx
-" target="_blank"><img src="http://img.youtube.com/vi/xxxx/0.jpg" 
-alt="Video Tutorial for Angular Image Gallery with Firebase Cloud Storage" width="500" height="400" border="10" /></a>
+ <a href="http://www.youtube.com/watch?feature=player_embedded&v=zbMzPluIndc
+" target="_blank"><img src="http://img.youtube.com/vi/zbMzPluIndc/0.jpg" 
+alt="Video Tutorial for Angular Inline Table Editing with Asp.Net Core Web API" width="500" height="400" border="10" /></a>
 
 
 # All Video Tutorial Series
